@@ -1,23 +1,23 @@
 Github Repositories URL for our project are :
 
-1. Smart Traffic Routing
+<b>1. Smart Traffic Routing</b>
 	<br>
 	URL : - smarttrafficrouting.grubx.in
 	<br>
 	GitRepo : - https://github.com/devanshbatra04/smarttrafficrouting
 
-2. Traffic AI Api<br>
+<b>2. Traffic AI Api</b><br>
 	GitRepo : - https://github.com/devanshbatra04/traffic-ai-api
 
-3. AntiTheft AI <br>
+<b>3. AntiTheft AI </b><br>
 	GitRepo : - https://github.com/devanshbatra04/AntiTheft-AI
 
-4. Red Light Automation With GUI<br>
+<b>4. Red Light Automation With GUI </b><br>
 	GitRepo : - https://github.com/devanshbatra04/red-light-automation-with-GUI
 	
-4. AntiTheft Android App <br>
+<b>5. AntiTheft Android App </b><br>
 	GitRepo : - https://github.com/sanjay-kd/AntiTheft
 	
-4. Red Light Automation With GUI<br>
+<b>6. BeaconApp </b><br>
 	GitRepo : - https://github.com/sanjay-kd/BeaconApp
 
