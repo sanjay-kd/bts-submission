@@ -1,7 +1,6 @@
 Github Repositories URL for our project are :
 
 1. Smart Traffic Routing
-	URL : - smarttrafficrouting.grubx.in
 	GitRepo : - https://github.com/devanshbatra04/smarttrafficrouting
 
 2. Traffic AI Api
